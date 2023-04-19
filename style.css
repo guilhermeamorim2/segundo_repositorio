@@ -1,1 +1,36 @@
-body {background-color: rgb(233, 101, 250);}
+*
+   {
+     margin: 0;
+     padding: 0;
+
+}
+
+
+
+body {
+    background-color: plum;
+}
+
+ .cabecalho {
+   background-color: whitesmoke;
+   color: black;
+   display: flex;
+   justify-content: space-around;
+   padding: 24 0;
+ }
+
+
+ .cabecalho-image {
+
+   width: 20%;
+
+ }
+
+  .cabecalho-lista-item {
+
+    display: inline-block;
+    margin: 0 16;
+    padding: 24 0;
+    font-size: 24;
+
+  }
