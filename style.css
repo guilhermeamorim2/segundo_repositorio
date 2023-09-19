@@ -1,71 +1,59 @@
+@import url(/style/header.css);
+
 :root{
-    --cor-principal:#ff7ddf; 
-    --cor-secundaria:#ffffff;
-    --cor-escrita:#000000;
-    --cor-defundo:#ffffff;
-}
-
-
-
-*
-   {
-     margin: 0;
-     padding: 0;
-
-}
-
-
-
-body {
-    background-color: plum;
-    font-family: 'Gideon Roman', sans-serif;
+     --cor-princripal: #ffffff;
+      --cor-secundaia: #ce38ce;
+      --cor-escrita: #000000;
+     --cor-defundo: #ffcaca;
+     --fonte-principal: "roboto"
+     --fonte-segundaria
 
 
 
 }
 
- .cabecalho {
-   background-color: whitesmoke;
-   color: black;
-   display: flex;
-   justify-content: space-around;
-   padding: 24 0;
- }
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
 
 
- .cabecalho-image {
 
-   width: 20%;
+body  {
+    .cabecalho{
 
- }
+    }
+    background-color: blue;
+    color: aquamarine;
+    display: flex;
+    justify-content;: space-
+    padding: 24px;
+}
+/
+.cabecalho{
 
-  .cabecalho-lista-item {
+}
+.cabecalho-imagem{
+width: 20%;
+}
 
+.cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
-    padding: 24px 0;
+    margin: 0 16;
+    padding: 25px 0;
     font-size: 24px;
 
-  }
-
-
-.num1{
-    background-image: linear-gradient(#424E61,#16CFF8);
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-
 }
-
-
-.num1-titulo{
-
+.nome.img{
+    width: 120px
 }
-
-.num1-imagem{
-  width: 45%;
-  
+.div-apresentacao{
+    text-align: center;
+    padding: 16px;
 }
-
+.icon-redes{
+width: 24px;
+padding: 4px 8px;
+}
