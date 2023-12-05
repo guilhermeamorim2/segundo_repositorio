@@ -6,13 +6,13 @@
 @import url(/styles/rodape.css);
 
 :root{
-    --cor-de-fundo:#ffffff;
+    --cor-de-fundo:#c4c4c4;
     --cor-principal:rgb(93, 169, 255)
     --cor-3:#31A686;
     --cor-4:#5DBE83;
     --cor-5:#8CD47C;
     --cor-6:#C0E775;
-    --branco:#FFFFFF;
+    --branco:#cacaca;
     --preto: #000000;
     --roxo: #e8a4ff;
     --amarelo: #ffffff;
